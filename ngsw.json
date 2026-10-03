@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1791034643177,
-  "index": "/invest-tracker/index.html",
+  "timestamp": 1791034755312,
+  "index": "/trackMyInvest/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,11 +11,11 @@
         "ignoreVary": true
       },
       "urls": [
-        "/invest-tracker/favicon.ico",
-        "/invest-tracker/index.html",
-        "/invest-tracker/main-ZHKI6CZZ.js",
-        "/invest-tracker/manifest.webmanifest",
-        "/invest-tracker/styles-5INURTSO.css"
+        "/trackMyInvest/favicon.ico",
+        "/trackMyInvest/index.html",
+        "/trackMyInvest/main-ZHKI6CZZ.js",
+        "/trackMyInvest/manifest.webmanifest",
+        "/trackMyInvest/styles-5INURTSO.css"
       ],
       "patterns": []
     },
@@ -27,33 +27,33 @@
         "ignoreVary": true
       },
       "urls": [
-        "/invest-tracker/icons/icon-128x128.png",
-        "/invest-tracker/icons/icon-144x144.png",
-        "/invest-tracker/icons/icon-152x152.png",
-        "/invest-tracker/icons/icon-192x192.png",
-        "/invest-tracker/icons/icon-384x384.png",
-        "/invest-tracker/icons/icon-512x512.png",
-        "/invest-tracker/icons/icon-72x72.png",
-        "/invest-tracker/icons/icon-96x96.png"
+        "/trackMyInvest/icons/icon-128x128.png",
+        "/trackMyInvest/icons/icon-144x144.png",
+        "/trackMyInvest/icons/icon-152x152.png",
+        "/trackMyInvest/icons/icon-192x192.png",
+        "/trackMyInvest/icons/icon-384x384.png",
+        "/trackMyInvest/icons/icon-512x512.png",
+        "/trackMyInvest/icons/icon-72x72.png",
+        "/trackMyInvest/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/invest-tracker/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/invest-tracker/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/invest-tracker/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/invest-tracker/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/invest-tracker/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "/invest-tracker/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/invest-tracker/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/invest-tracker/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/invest-tracker/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/invest-tracker/index.html": "8e4dba2ec2509ce761b1bccb6d4731f539de4813",
-    "/invest-tracker/main-ZHKI6CZZ.js": "152d5b65277a374d1bf9b476287f50a374e4727a",
-    "/invest-tracker/manifest.webmanifest": "bccb86c2a8b3a2a01c583d16535e274c5be19822",
-    "/invest-tracker/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/trackMyInvest/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/trackMyInvest/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/trackMyInvest/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/trackMyInvest/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/trackMyInvest/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/trackMyInvest/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/trackMyInvest/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/trackMyInvest/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/trackMyInvest/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/trackMyInvest/index.html": "490bf10ea32bea7d2d11a56984f8beb92a9f0f06",
+    "/trackMyInvest/main-ZHKI6CZZ.js": "152d5b65277a374d1bf9b476287f50a374e4727a",
+    "/trackMyInvest/manifest.webmanifest": "bccb86c2a8b3a2a01c583d16535e274c5be19822",
+    "/trackMyInvest/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
