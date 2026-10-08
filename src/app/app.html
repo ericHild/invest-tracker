@@ -1,5 +1,13 @@
-<div class="p-6 text-center text-2xl font-bold">
-  Hello World — PWA OK ✔️
-</div>
+<div class="app-shell">
+  <header class="app-header">
+    <a routerLink="/investments" class="brand" aria-label="TrackInvest, accueil">
+      <span class="brand-mark" aria-hidden="true">t</span>
+      <span>TrackInvest</span>
+    </a>
+    <span class="header-caption">Votre espace personnel</span>
+  </header>
 
-<router-outlet />
+  <main>
+    <router-outlet />
+  </main>
+</div>
